@@ -17,3 +17,5 @@ while True:
 
 for nome, valor in gastos.items():  # Items = items do dicionario 'gastos'
     print(f'{nome}: R${valor:.2f}')
+
+    #teste git
